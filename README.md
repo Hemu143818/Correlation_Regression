@@ -1,9 +1,6 @@
 # DATE:11.02.26
-# Correlation and regression for data analysis
-```
-# Name: k hemanth yadav 
-# Reg no.:212224100033
-```
+# ex3: Correlation and regression for data analysis
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
